@@ -91,7 +91,7 @@ public class Player {
                 ", name='" + name + '\'' +
                 ", birthdate=" + birthdate +
                 ", tshirtNumber=" + tshirtNumber +
-                ", teamName='" + teamName + '\'' +
+                ", teamName='" + teamName +
                 '}';
     }
 }
